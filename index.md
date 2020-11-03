@@ -1,6 +1,6 @@
 ## Privacy Policy Complexities
 
-#### Research project by [Abhishek Gupta](https://atg-abhishek.github.io), Ameen Jauhar, and Nga Than
+#### Research project by [Abhishek Gupta](https://atg-abhishek.github.io), Ameen Jauhar, and  [Nga Than](http://ngathan.com)
 
 ### Abstract 
 
@@ -17,4 +17,4 @@ Please take a look at [this survey form]() for a way to help us with this resear
 For any questions regarding this project, please feel free to reach out to any of the following contacts:
 * Abhishek Gupta (abhishek [at] montrealethics [dot] ai)
 * Ameen Jauhar 
-* Nga Than
+* Nga Than (nthan [at] gradcenter [dot] cuny [dot] edu)

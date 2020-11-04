@@ -1,3 +1,5 @@
+## Privacy Policy governing this research project
+
 ### A. Purpose of Survey and Interview 
 
 The Understanding Privacy Perspectives Survey (“UPPS”) is a research tool designed for collecting primary, empirical information on privacy perspectives and behaviours of Indian social media users. The research is to aid in preparing and publishing empirical papers on these issues, which will be co-authored by Abhishek Gupta, Ameen Jauhar, and Nga Than (“Researchers”).  

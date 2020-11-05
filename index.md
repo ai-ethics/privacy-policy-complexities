@@ -3,8 +3,8 @@
 #### Research project by Abhishek Gupta, Ameen Jauhar, and Nga Than
 
 * [Abhishek Gupta](https://atg-abhishek.github.io) - Founder and Principal Researcher, [Montreal AI Ethics Institute](https://montrealethics.ai) and Machine Learning Engineer and CSE Responsible AI Board Member, Microsoft
-* Ameen Jauhar
-* Nga Than, Doctoral Candidate, City University of New York - The Graduate Center
+* [Ameen Jauhar](https://vidhilegalpolicy.in/team/ameen-jauhar/) - Team Lead, Centre for Applied Law and Tech Research, Vidhi Center for Legal Policy
+* [Nga Than](https://ngathan.com/) - Doctoral Candidate, City University of New York - The Graduate Center
 
 ### Abstract 
 

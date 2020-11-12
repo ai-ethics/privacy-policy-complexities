@@ -14,7 +14,7 @@ Given the extensive coverage that privacy gets in popular media and how many of 
 
 ### You can help us! 
 
-Please take a look at [this survey form]() for a way to help us with this research project. You can read our [privacy policy](./privacy_policy.md) to get a sense for how the data will be processed and used.
+Please take a look at [this survey form](https://bit.ly/3mWYVYx) for a way to help us with this research project. You can read our [privacy policy](./privacy_policy.md) to get a sense for how the data will be processed and used.
 
 #### Contact information 
 

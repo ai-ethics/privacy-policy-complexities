@@ -18,7 +18,4 @@ Please take a look at [this survey form](https://bit.ly/3mWYVYx) for a way to he
 
 #### Contact information 
 
-For any questions regarding this project, please feel free to reach out to any of the following contacts:
-* Abhishek Gupta (abhishek [at] montrealethics [dot] ai)
-* Ameen Jauhar (ameenjauhar89 [at] gmail [dot] com)
-* Nga Than (nthan [at] gradcenter [dot] cuny [dot] edu)
+Please refer to contact information on the respective pages of the authors of this study.
